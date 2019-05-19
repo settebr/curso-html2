@@ -2,11 +2,11 @@
 <html lang="pt-br">
     <head>
         <meta chartset="utf-8">
-        <meta name="description" content="Fofolete News">
-        <title>Fofolete</title>
+        <meta name="description" content="CURSO HTML">
+        <title>CURSO HTML</title>
     </head>
     <body>
-        <h1 style="text-align:center;">MARCELO ALBUQUERQUE SETTE</h1>
+        <h1 style="text-align:center;">MARC DROGO</h1>
         <h2 style="text-align:center;">
             Bom dia!
         </h2>
